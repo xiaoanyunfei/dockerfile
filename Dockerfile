@@ -1,5 +1,5 @@
 # Based on centos
-FROM k8s.gcr.io/elasticsearch:v5.6.4
+FROM k8s.gcr.io/fluentd-elasticsearch:v2.0.4
 LABEL maintainers="MTY Authors"
 LABEL description="Mebs daemon"
 
