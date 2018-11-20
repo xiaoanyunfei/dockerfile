@@ -1,5 +1,5 @@
 # Based on centos
-FROM k8s.gcr.io/kube-cross:v1.10.4-1
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
 LABEL maintainers="MTY Authors"
 LABEL description="Mebs daemon"
 
